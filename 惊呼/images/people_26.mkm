@@ -1,0 +1,7 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/%e9%a1%b9%e7%9b%ae/%e6%83%8a%e5%91%bc/images/people_26.png">
+  <Marks>
+    <LengthMark direction="12" color="16711680" length="175" x="42" y="14"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="5" color="16711680" targetColor="0" offsetX="25" offsetY="10" x="152" y="146"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="72" y="91" textMaxWidth="100" offsetX="25" offsetY="10" text="说明..."/>
+  </Marks>
+</MKM>
